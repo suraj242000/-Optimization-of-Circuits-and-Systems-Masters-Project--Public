@@ -139,9 +139,6 @@ The following `.mat` files are required:
 
 4. 📊 Review console output and plots.
 
----
-
-## 📌 Notes
 
 - This implementation is MATLAB-based and designed for high-performance PDN analysis.
 - RBFN surrogate model significantly reduces computational cost by approximating expensive fitness evaluations.
